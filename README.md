@@ -7,3 +7,5 @@ internal/service/：定义业务逻辑和用例。
 internal/repository/：数据访问层，与数据库或外部服务（如Ollama）交互。
 pkg/ollama/：封装与Ollama通信的客户端逻辑。
 config/config.go：配置文件，包括环境变量和配置参数。
+
+## 快速开始
